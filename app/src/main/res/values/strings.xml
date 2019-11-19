@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">geekHWthread</string>
+    <string name="discription_number">name</string>
+    <string name="R_number">R</string>
+    <string name="number">N</string>
+    <string name="prime_number">Prime number</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="stop_btn_text">Stop</string>
+    <string name="play_btn_text">Play</string>
+</resources>
